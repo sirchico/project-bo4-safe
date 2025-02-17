@@ -1,13 +1,19 @@
-## **Project-BO4 License**  
+## **Project-BO4-Safe License**
 
-Copyright (c) 2025 Project-BO4 Contributors  
+Copyright (c) 2025 Project-BO4-Safe Contributors
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, merge, publish, and distribute the Software, subject to the following conditions:  
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, merge, publish, and distribute the Software, subject to the following conditions:
 
-### **🚨 Important Disclaimer 🚨**  
-1. **Unofficial Project:** This project is **not affiliated with, endorsed by, or associated with Activision, Treyarch, or any related entities.**  
-2. **No Game Files Provided:** This software **does NOT include or distribute any copyrighted game assets or proprietary files** from *Call of Duty: Black Ops 4*. Users must provide their own legally obtained game files.  
-3. **DRM Notice:** This project **modifies how Black Ops 4 is accessed but does not distribute or promote piracy**. Users are responsible for ensuring compliance with applicable laws in their country.  
-4. **Liability Waiver:** The software is provided "as is", without warranty of any kind. The developers assume no responsibility for any consequences arising from the use of this software.  
+### **Important Disclaimer**
+1. **Unofficial Project:**  
+   This project is **not affiliated with, endorsed by, or associated with Activision, Treyarch, or any related entities.**  
+2. **No Game Files Provided:**  
+   This software does **not** include or distribute any copyrighted game assets or proprietary files from *Call of Duty: Black Ops 4*. Users must provide their own legally obtained game files.
+3. **No DRM Removal:**  
+   This software does not remove or circumvent the game’s DRM in the traditional sense. Instead, it removes the **Battle.NET connection requirement** and allows for **community server connections**. Users are still responsible for ensuring they have legal access to the game.
+4. **Legal Compliance:**  
+   Users of this software are responsible for ensuring that they comply with applicable local laws, game terms of service, and the licensing terms of any third-party software involved.
+5. **Liability Waiver:**  
+   The software is provided "as is", without warranty of any kind. The developers assume no responsibility for any consequences arising from the use of this software, including but not limited to legal issues, account bans, or software conflicts.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
