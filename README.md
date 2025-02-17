@@ -32,14 +32,17 @@ A custom *Call of Duty: Black Ops 4* (BO4) client that **uses custom community s
 1. **Obtain Game Files**  
    - Ensure you have a valid copy of BO4 installed or game files on hand.
 
-2. **Download / Clone This Project**  
+2. **Download This Project**  
    - Head to the [releases](../../releases) and download the latest version of the client.
+   
+3. **Extract The File**
+   - Extract the .zip file in the game's folder.
 
 3. **Run the Launcher**  
-   - Execute the provided launcher (`project-bo4.exe`) with the files provided in the game's folder, which means you HAVE to extract them there, check [community servers](https://discord.com/invite/AXECAzJJGU) on discord if you face any problems.
+   - Execute the provided launcher (`project-bo4.exe`) with *all* files provided in the .zip file.
 
 4. **Play and Enjoy!**  
-   - Launch the game and have fun on custom servers.
+   - Launch the game and have fun on custom servers. (check [community servers](https://discord.com/invite/AXECAzJJGU) on discord if you face any problems.)
 
 ---
 
