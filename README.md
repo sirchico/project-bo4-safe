@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0b3e0210-1cd8-428e-85ce-372d44614901)# Project-BO4-Safe
+# Project-BO4-Safe
 
 A custom *Call of Duty: Black Ops 4* (BO4) client that **uses custom community servers** and **removes the Battle.NET online connection requirement**, allowing players to continue enjoying BO4 outside of the official infrastructure.  
 
